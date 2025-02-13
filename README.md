@@ -5,3 +5,5 @@
 - 📫 How to reach me ... Find me on LinkedIn! www.linkedin.com/in/savannah-boyer
 - 😄 Pronouns: ... she/her
 - ⚡ Fun fact: ... I once tried to rollerskate... once.
+- 🧠 Skills: ... HTML5, CSS3, WAI-ARIA, WCAG 2.2, JAWS, NVDA, VoiceOver, TalkBack
+- 👩‍💻 Professional experience: ... 7 years as an Accessibility Consultant/Engineer, 2 years in Project Management
