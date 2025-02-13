@@ -1,0 +1,7 @@
+- 👋 Hi, I’m @sboyer96
+- 👀 I’m interested in ... Digital Accessibility
+- 🌱 I’m currently learning ... Swift & SwiftUI
+- 💞️ I’m looking to collaborate on ... Anything accessibility related
+- 📫 How to reach me ... Find me on LinkedIn! www.linkedin.com/in/savannah-boyer
+- 😄 Pronouns: ... she/her
+- ⚡ Fun fact: ... I once tried to rollerskate... once.
